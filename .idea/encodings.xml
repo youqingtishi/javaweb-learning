@@ -3,5 +3,9 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/class01-servlet/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/class01-servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class02-request/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class02-request/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class03-response/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class03-response/src/main/resources" charset="UTF-8" />
   </component>
 </project>

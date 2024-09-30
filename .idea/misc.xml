@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/class01-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/class02-request/pom.xml" />
+        <option value="$PROJECT_DIR$/class03-response/pom.xml" />
       </list>
     </option>
   </component>
