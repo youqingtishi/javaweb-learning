@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/class01-servlet/pom.xml" />
         <option value="$PROJECT_DIR$/class02-request/pom.xml" />
         <option value="$PROJECT_DIR$/class03-response/pom.xml" />
+        <option value="$PROJECT_DIR$/class04-cookie-session/pom.xml" />
+        <option value="$PROJECT_DIR$/book-online/pom.xml" />
       </list>
     </option>
   </component>
