@@ -7,11 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="class01-servlet" />
+        <module name="class05-ajax-axios" />
+        <module name="brand-list" />
+        <module name="class-oa" />
         <module name="class04-cookie-session" />
         <module name="class02-request" />
+        <module name="Book_online1" />
+        <module name="class06-filter-listenser" />
         <module name="class03-response" />
-        <module name="book-online" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="book-online" target="22" />
+      <module name="book-online1" target="17" />
+      <module name="book_online" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

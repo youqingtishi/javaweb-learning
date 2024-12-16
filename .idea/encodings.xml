@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Book_online1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Book_online1/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/book-online/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/book-online/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/book-online1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/book-online1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/book_online/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/book_online/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/brand-list/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/brand-list/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class-oa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class-oa/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/class01-servlet/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/class01-servlet/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/class02-request/src/main/java" charset="UTF-8" />
@@ -11,5 +21,9 @@
     <file url="file://$PROJECT_DIR$/class03-response/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/class04-cookie-session/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/class04-cookie-session/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class05-ajax-axios/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class05-ajax-axios/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class06-filter-listenser/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class06-filter-listenser/src/main/resources" charset="UTF-8" />
   </component>
 </project>

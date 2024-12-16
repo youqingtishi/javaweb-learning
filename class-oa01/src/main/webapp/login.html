@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- Import style -->
+    <link rel="stylesheet" href="https://unpkg.com/element-plus@2.8.8/dist/index.css"/>
+    <!-- Import Vue 3 -->
+    <script src="https://unpkg.com/vue@3.5.13/dist/vue.global.js"></script>
+    <!-- Import component library -->
+    <script src="https://unpkg.com/element-plus@2.8.8/dist/index.full.js"></script>
+    <!-- Import axios library -->
+    <script src="https://unpkg.com/axios@1.7.8/dist/axios.min.js"></script>
+    <title>OA办公系统</title>
+
+    <style>
+        .login-box{
+            width: 305px;
+            margin: 200px auto;
+            border: 1px solid #f6f6f6;
+            padding: 35px 35px 15px 35px;
+            border-radius: 5px;
+            box-shadow: 0 0 25px #ddd;
+        }
+
+        .login-title{
+            text-align: center;
+        }
+
+        .login-btn{
+            width: 300px;
+        }
+
+
+    </style>
+</head>
+
+
+
+
+<body>
+
+<div id="app">
+    <el-form lable-width="80px" class="login-box" :modle="form" :rules="rules" :ref="loginFrom">
+        <h2 class="login-title">OA 办公系统</h2>
+        <el-form-item lable="账号" prop="username">
+            <el-f
+        </el-form-item>
+    </el-form>
+</div>
+
+</body>
+</html>
